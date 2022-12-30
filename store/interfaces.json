@@ -1,0 +1,7 @@
+{
+  "special-diagramation":{
+    "component": "SpecialDiagramation",
+    "composition": "children",
+    "render": "client"
+  }
+}
